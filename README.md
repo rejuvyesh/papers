@@ -14,6 +14,12 @@ git-annex init local
 git-annex get .
 ```
 
+If you want just some particular paper:
+
+```
+git-annex get deep-learning/2011-deep-sparse-rectifier-neural-networks.pdf
+```
+
 Please open an issue if you cannot download any paper so that I can mirror them.
 
 How I created this?
