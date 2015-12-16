@@ -1,0 +1,1 @@
+b5de906a-f443-437e-9f9d-731a64ccc99f bucket=papers.rejuvyesh.com datacenter=US encryption=none host=s3.amazonaws.com name=s3 port=80 storageclass=REDUCED_REDUNDANCY type=S3 timestamp=1420379035.49667s
